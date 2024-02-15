@@ -7,8 +7,8 @@
 <p align="left">My name is <b>Mahesh</b> and I'm a passionate <b>Full-stack JavaScript Developer</b>, from India.🇮🇳</p>
 
 ### 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaheshPawaar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshPawaar) 
-[![Instagram](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/maheshpawaar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshPawaar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshPawaar) 
+[![Instagram](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/maheshpawaar)
 
 ###
 
