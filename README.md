@@ -36,6 +36,7 @@
 ![Recoil](https://img.shields.io/badge/Recoil-3578E5.svg?style=flat&logo=Recoil&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=flat&logo=JSON-Web-Tokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
