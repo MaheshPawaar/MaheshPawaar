@@ -8,7 +8,7 @@
 
 ### 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshPawaar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshPawaar) 
-[![Instagram](https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/maheshpawaar)
+[![Biolink](https://img.shields.io/badge/Bio%20Link-000000?style=flat&logo=Bio-Link&logoColor=white)](https://maheshpawaar.bio.link/)
 
 ###
 
