@@ -9,6 +9,7 @@
 ### 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MaheshPawaar)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MaheshPawaar) 
 [![Biolink](https://img.shields.io/badge/Bio%20Link-000000?style=flat&logo=Bio-Link&logoColor=white)](https://maheshpawaar.bio.link/)
+[![wakatime](https://wakatime.com/badge/user/018d0c20-d01b-4b19-acb9-8885339d3bbc.svg)](https://wakatime.com/@018d0c20-d01b-4b19-acb9-8885339d3bbc)
 
 ###
 
