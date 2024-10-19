@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Get Hired<br>🎲 Fun fact: I'm overthinker.</p>
+<p align="left">📚 I'm currently learning Full-Stack Development<br>🎯 Goals: Grow in Career<br>🎲 Fun fact: I'm overthinker.</p>
 
 ###
 
