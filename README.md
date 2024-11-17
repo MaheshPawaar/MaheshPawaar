@@ -57,8 +57,8 @@
   <img src="https://streak-stats.demolab.com?user=maheshpawaar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### You can help me by Donating
+<!-- ### You can help me by Donating -->
   
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=flat&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/MaheshPawar) 
+  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=flat&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/MaheshPawar) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
